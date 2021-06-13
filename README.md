@@ -28,10 +28,13 @@ pip install streamlit
 ```sh
 git clone https://github.com/AramDonyaee/ChEMBL-Explorer.git
 ```
-**Step 4**: Download Miniconda for better development experience and virtual environment management from https://docs.conda.io/en/latest/miniconda.html
-**Step 5**: Install Miniconda and launch Anaconda Propmt
-**Step 6**: Navigate to the directory in which you have cloned this repository
-**Step 7**: Create a virtual environment and then activate it:
+**Step 4**: Download Miniconda for better development experience and virtual environment management from https://docs.conda.io/en/latest/miniconda.html  
+
+**Step 5**: Install Miniconda and launch Anaconda Propmt  
+
+**Step 6**: Navigate to the directory in which you have cloned this repository  
+
+**Step 7**: Create a virtual environment and then activate it:  
 
 ```sh
 conda create -n <your_environment_name> python=3.7.10
