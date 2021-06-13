@@ -1,0 +1,16 @@
+name: chembl_explorer #Environment name
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - mols2grid
+    - pyarrow
+    - rdkit-pypi
+    - chembl_webresource_client
+    - streamlit
+  
