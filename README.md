@@ -45,8 +45,5 @@ pip install -r requirements.txt
 ```sh
 streamlit run Main.py
 ```
-
 ## License
-
 MIT
-
