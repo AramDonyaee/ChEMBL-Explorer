@@ -12,6 +12,9 @@
 
 Not only you can use this repo as a GUI in your local development enviroment, but a live demo is also available at https://chemblxplore.herokuapp.com
 
+https://user-images.githubusercontent.com/18027122/121799306-9eda1e00-cc40-11eb-8b77-a479461863d1.mp4
+
+
 ## Development
 
 Want to contribute? That is so nice!
